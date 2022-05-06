@@ -27,5 +27,5 @@ Ingeniero en informática, desarrollador JavaScript Full Stack con mas de 6 año
 - 🚀 Me gusta enfrentar nuevos desafios
 
 
-#### Escribeme
+#### Escríbeme 🤓
 Si quieres ponerte en contacto conmigo, escribeme a hsvchcl@gmail.com
