@@ -21,7 +21,7 @@
 ---
 
 ### 👨‍💻
-Ingeniero en informática, desarrollador JavaScript Full Stack con mas de 6 años de experiencia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Ingeniero en informática, desarrollador Full Stack con mas de 6 años de experiencia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 👌 Me fascina estar constantemente aprendiendo nuevas tecnologías
 - 🚀 Me gusta enfrentar nuevos desafios
