@@ -26,6 +26,11 @@ Ingeniero en informática, desarrollador JavaScript Full Stack con mas de 6 año
 - 👌 Me fascina estar constantemente aprendiendo nuevas tecnologías
 - 🚀 Me gusta enfrentar nuevos desafios
 
+# Proyectos
+Aca podrás encontrar algunos de mis proyectos mas recientes ☺️
 
-#### Escríbeme 🤓
+## React
+- Todos-Express: [Ver Proyecto](https://github.com/hsvchcl/react-my-todos)
+
+## Escríbeme 🤓
 Si quieres ponerte en contacto conmigo => hsvchcl@gmail.com
