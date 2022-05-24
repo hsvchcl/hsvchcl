@@ -35,5 +35,8 @@ Aca podrás encontrar algunos de mis proyectos mas recientes ☺️
 ## Desktop Applications
 - YouDown: [Ver Proyecto](https://github.com/hsvchcl/react-youdown-desktop-app)
 
+## Project Templates 
+- Node/Typescript API: [Ver Proyecto](https://github.com/hsvchcl/node-typescript-api-template)
+
 ## Escríbeme 🤓
 Si quieres ponerte en contacto conmigo => hsvchcl@gmail.com
