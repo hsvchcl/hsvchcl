@@ -10,7 +10,7 @@
   
   <h1>
   Hola, Bienvenid@!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 </h1>
   
   <div align="center">
@@ -40,3 +40,5 @@ Aca podrás encontrar algunos de mis proyectos mas recientes ☺️
 
 ## Escríbeme 🤓
 Si quieres ponerte en contacto conmigo => hsvchcl@gmail.com
+
+<a href="https://app.daily.dev/h4nscl"><img src="https://api.daily.dev/devcards/2c1fdba46d924c468cc6225d2a2e8957.png?r=q4c" width="200" alt="Hans Steven Vergara Chamorro's Dev Card"/></a>
