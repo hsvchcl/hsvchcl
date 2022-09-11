@@ -44,7 +44,7 @@ Aca podrás encontrar algunos de mis proyectos mas recientes ☺️
 
 ## Project Templates 
 - Node/Typescript API: [Ver Proyecto](https://github.com/hsvchcl/node-typescript-api-template)
-- INCode: [Ver Proyecto](https://github.com/hsvchcl/react-vite-electron-template) 
+- Electron/Vite/ReactJS/geistUI: [Ver Proyecto](https://github.com/hsvchcl/react-vite-electron-template) 
 
 ## Escríbeme 🤓
 Si quieres ponerte en contacto conmigo => hsvchcl@gmail.com
