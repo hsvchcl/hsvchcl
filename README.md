@@ -1,6 +1,6 @@
 <div align="center">
-  <h1 align="center">¡Hola, soy Hans Vergara! 👋</h1>
-  <h3 align="center">Ingeniero en Informática | Desarrollador Full Stack</h3>
+  <h1 align="center">Hi, I'm Hans Vergara 👋</h1>
+  <h3 align="center">Software Engineer</h3>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/hansvergaracl/">
@@ -12,7 +12,7 @@
   </p>
 
   <p align="center">
-    Soy un apasionado desarrollador de software con más de 6 años de experiencia creando soluciones digitales. Me especializo en construir aplicaciones web modernas, escalables y con una gran experiencia de usuario. Siempre buscando aprender nuevas tecnologías y enfrentar nuevos desafíos. 🚀
+    I am a passionate software developer with over 13 years of experience creating digital solutions. I specialize in building modern, scalable web applications with a great user experience. Always looking to learn new technologies and face new challenges. 🚀
   </p>
 </div>
 
@@ -32,30 +32,37 @@
 </div>
 
 <div align="center">
-  <h2>📊 Estadísticas de GitHub</h2>
+  <h2>📊 GitHub Stats</h2>
   <a href="https://github.com/hsvchcl">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hsvchcl&show_icons=true&theme=omni&hide_border=true" alt="Hans's Github Stats" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hsvchcl&show_icons=true&theme=omni&hide_border=true&bg_color=transparent">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=hsvchcl&show_icons=true&theme=default&hide_border=true&bg_color=transparent" alt="Hans's Github Stats" />
+    </picture>
   </a>
   <a href="https://github.com/hsvchcl">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsvchcl&layout=compact&theme=omni&hide_border=true" alt="Top Languages" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hsvchcl&layout=compact&theme=omni&hide_border=true&bg_color=transparent">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsvchcl&layout=compact&theme=default&hide_border=true&bg_color=transparent" alt="Top Languages" />
+    </picture>
   </a>
 </div>
 
 <div align="center">
-  <h2>🏆 Proyectos Destacados</h2>
+  <h2>🏆 Featured Projects</h2>
 </div>
 
-| Proyecto | Descripción | Tech Stack | Enlaces |
+| Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **Chilean RUT Formatter** | Librería ligera con 0 dependencias para formatear y validar RUTs chilenos. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) | [NPM](https://www.npmjs.com/package/chilean-rut-formatter) • [Demo](https://hsvchcl.github.io/chilean-rut-formatter/) |
-| **Portafolio V2** | Nuevo portafolio personal construido con rendimiento y diseño en mente. | ![Astro](https://img.shields.io/badge/-Astro-ff5d01?logo=astro&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) | [Repo](https://github.com/hsvchcl/portafolio) |
-| **React My Todos** | Aplicación de gestión de tareas con backend en Express. | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) | [Repo](https://github.com/hsvchcl/react-my-todos) |
-| **YouDown Desktop** | Aplicación de escritorio para descargas multimedia. | ![Electron](https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white) | [Repo](https://github.com/hsvchcl/react-youdown-desktop-app) |
+| **Chilean RUT Formatter** | Lightweight library with 0 dependencies to format and validate Chilean RUTs. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) | [NPM](https://www.npmjs.com/package/chilean-rut-formatter) • [Demo](https://hsvchcl.github.io/chilean-rut-formatter/) |
+| **Portfolio V2** | New personal portfolio built with performance and design in mind. | ![Astro](https://img.shields.io/badge/-Astro-ff5d01?logo=astro&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) | [Repo](https://github.com/hsvchcl/portafolio) |
+| **React My Todos** | Task management application with Express backend. | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) | [Repo](https://github.com/hsvchcl/react-my-todos) |
+| **YouDown Desktop** | Desktop application for multimedia downloads. | ![Electron](https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white) | [Repo](https://github.com/hsvchcl/react-youdown-desktop-app) |
 
 ---
 
 <div align="center">
-  <p>Visitor count<br>
-  <img src="https://profile-counter.glitch.me/hsvchcl/count.svg" /></p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=hsvchcl&label=Profile%20Views&color=0e75b6&style=flat" alt="hsvchcl" />
+  </p>
   <p>© 2026 Hans Vergara</p>
 </div>
