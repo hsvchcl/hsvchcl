@@ -15,7 +15,7 @@
   <a href="https://h4nsd3v.web.app/">
     <img src="https://img.shields.io/badge/Website-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Website"/>
   </a>
-  <a href="https://www.npmjs.com/~hsvchcl">
+  <a href="https://www.npmjs.com/~hansvergaracl">
     <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
   </a>
 
